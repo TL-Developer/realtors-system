@@ -1,0 +1,20 @@
+{
+  "name": "realtors-system",
+  "version": "1.0.0",
+  "description": "System for realtors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TL-Developer/realtors-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TL-Developer/realtors-system/issues"
+  },
+  "homepage": "https://github.com/TL-Developer/realtors-system#readme"
+}
